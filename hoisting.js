@@ -15,7 +15,7 @@ function crazy() {
     console.log("hey!!!")
   }
 }
-crazy();
+return crazy();
 
 
 function sayMyName() {
