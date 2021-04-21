@@ -12,7 +12,6 @@ function callMe() {
 function thisIsCrazy() {
     console.log("hey!!!")
   }
-}
 thisIsCrazy();
 
 
