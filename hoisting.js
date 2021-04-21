@@ -9,6 +9,7 @@ function callMe() {
 }
 callMe;
 console.log(lyric);
+
 function crazy() {
   // fix the code in here:
   thisIsCrazy();
